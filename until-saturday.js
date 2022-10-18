@@ -13,6 +13,9 @@ switch (day) {
     case 'Wednesday':
         console.log('There are 3 days until Saturday.');
         break;
+    case 'Thursday':
+        console.log('There are 2 days until Saturday.');
+        break;
     case 'Friday':
         console.log('There is 1 day until Saturday.');
         break;
